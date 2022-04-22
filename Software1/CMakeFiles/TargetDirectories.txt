@@ -1,0 +1,3 @@
+/home/umana/Documentos/alse/Software1/CMakeFiles/rebuild_cache.dir
+/home/umana/Documentos/alse/Software1/CMakeFiles/edit_cache.dir
+/home/umana/Documentos/alse/Software1/CMakeFiles/software1.bin.dir
